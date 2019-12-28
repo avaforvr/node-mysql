@@ -1,0 +1,19 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "Backend for books.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avaforvr/books-api.git"
+  },
+  "author": "ava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avaforvr/books-api/issues"
+  },
+  "homepage": "https://github.com/avaforvr/books-api#readme"
+}
