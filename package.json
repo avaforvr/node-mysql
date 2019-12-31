@@ -1,19 +1,23 @@
 {
-  "name": "books-api",
+  "name": "node-mysql",
   "version": "1.0.0",
-  "description": "Backend for books.",
-  "main": "index.js",
+  "description": "Practice for NodeJS and MySQL.",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avaforvr/books-api.git"
+    "url": "git+https://github.com/avaforvr/node-mysql.git"
   },
   "author": "ava",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/avaforvr/books-api/issues"
+    "url": "https://github.com/avaforvr/node-mysql/issues"
   },
-  "homepage": "https://github.com/avaforvr/books-api#readme"
+  "homepage": "https://github.com/avaforvr/node-mysql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
 }
